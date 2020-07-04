@@ -1,0 +1,28 @@
+D:\Дима\Программы\textBot_v0.002\bin\Release\textBot_v0.002.exe.config
+D:\Дима\Программы\textBot_v0.002\bin\Release\textBot_v0.002.exe
+D:\Дима\Программы\textBot_v0.002\bin\Release\textBot_v0.002.pdb
+D:\Дима\Программы\textBot_v0.002\obj\Release\textBot_v0.002.csprojAssemblyReference.cache
+D:\Дима\Программы\textBot_v0.002\obj\Release\textBot_v0._002.Form1.resources
+D:\Дима\Программы\textBot_v0.002\obj\Release\textBot_v0._002.FormArchive.resources
+D:\Дима\Программы\textBot_v0.002\obj\Release\textBot_v0._002.FormCreatePass.resources
+D:\Дима\Программы\textBot_v0.002\obj\Release\textBot_v0._002.FormHelp.resources
+D:\Дима\Программы\textBot_v0.002\obj\Release\textBot_v0._002.FormPassword.resources
+D:\Дима\Программы\textBot_v0.002\obj\Release\textBot_v0._002.Properties.Resources.resources
+D:\Дима\Программы\textBot_v0.002\obj\Release\textBot_v0.002.csproj.GenerateResource.cache
+D:\Дима\Программы\textBot_v0.002\obj\Release\textBot_v0.002.csproj.CoreCompileInputs.cache
+D:\Дима\Программы\textBot_v0.002\obj\Release\textBot_v0.002.exe
+D:\Дима\Программы\textBot_v0.002\obj\Release\textBot_v0.002.pdb
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\bin\Release\textBot_v0.002.exe.config
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\bin\Release\textBot_v0.002.exe
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\bin\Release\textBot_v0.002.pdb
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\obj\Release\textBot_v0.002.csprojAssemblyReference.cache
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\obj\Release\textBot_v0._002.Form1.resources
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\obj\Release\textBot_v0._002.FormArchive.resources
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\obj\Release\textBot_v0._002.FormCreatePass.resources
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\obj\Release\textBot_v0._002.FormHelp.resources
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\obj\Release\textBot_v0._002.FormPassword.resources
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\obj\Release\textBot_v0._002.Properties.Resources.resources
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\obj\Release\textBot_v0.002.csproj.GenerateResource.cache
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\obj\Release\textBot_v0.002.csproj.CoreCompileInputs.cache
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\obj\Release\textBot_v0.002.exe
+D:\Дима\Программы\Github\Текстовый бот\textBot_v0.002\obj\Release\textBot_v0.002.pdb
