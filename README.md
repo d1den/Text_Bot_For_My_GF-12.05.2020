@@ -24,3 +24,24 @@
 **Особенности реализации:**  
 1. Фразы ответов бота находятся в файлах .txt по тематикам диалога и подгружаются при первом запуске программы;
 2. При открытии видео, фото и музыки выполняется открытие проводника Windows в требуемой папке.
+  
+**Ниже приведены скриншоты программы:**  
+**Текстобый бот:**  
+![test1](https://github.com/d1den/Text_Bot_For_My_GF-12.05.2020/blob/master/images/test1.JPG?raw=true "test1")  
+![test2](https://github.com/d1den/Text_Bot_For_My_GF-12.05.2020/blob/master/images/test2.JPG?raw=true "test2")  
+**Смена темы:**  
+![test3](https://github.com/d1den/Text_Bot_For_My_GF-12.05.2020/blob/master/images/test3.JPG?raw=true "test3")  
+**Помощь в главном окне программы:**  
+![test4](https://github.com/d1den/Text_Bot_For_My_GF-12.05.2020/blob/master/images/test4.JPG?raw=true "test4")  
+**Архив:**  
+![test5](https://github.com/d1den/Text_Bot_For_My_GF-12.05.2020/blob/master/images/test5.JPG?raw=true "test5")  
+**Помощь в архиве:**  
+![test6](https://github.com/d1den/Text_Bot_For_My_GF-12.05.2020/blob/master/images/test6.JPG?raw=true "test6")  
+**Открытие раздела видео:**  
+![test7](https://github.com/d1den/Text_Bot_For_My_GF-12.05.2020/blob/master/images/test7.JPG?raw=true "test7")  
+**Написание заметки:**  
+![test8](https://github.com/d1den/Text_Bot_For_My_GF-12.05.2020/blob/master/images/test8.JPG?raw=true "test8")  
+**Окно настройки пароля:**  
+![test9](https://github.com/d1den/Text_Bot_For_My_GF-12.05.2020/blob/master/images/test9.JPG?raw=true "test9")  
+**Окно ввода пароля:**  
+![test10](https://github.com/d1den/Text_Bot_For_My_GF-12.05.2020/blob/master/images/test10.JPG?raw=true "test10")  
